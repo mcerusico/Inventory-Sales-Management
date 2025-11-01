@@ -1,4 +1,4 @@
 
-reflex==0.8.15a1
+reflex==0.8.17
 bcrypt
 sqlmodel
